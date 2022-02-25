@@ -1,38 +1,13 @@
-### Welcome to GitHub Pages
+# ***My Study Cafe***
 Owned by Althea Mae C. Santiago of Campion B
 
-You can use the [editor on GitHub](https://github.com/amcsantiago/amcsantiago.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![giphy](https://user-images.githubusercontent.com/99773981/155712643-be5f3392-e419-49c3-bdfe-05171da2df32.gif)
+## **Welcome to my space!**
+Find Althea here:
+- [Facebook](https://www.facebook.com/altheamaecs)
+- [Instagram](https://www.instagram.com/altheughs/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## *Daily Schedule*
+![rsz_dark_coral_and_moccasin_classy__refined_motivation__female_empowerment_desktop_wallpaper](https://user-images.githubusercontent.com/99773981/155715651-ff3219db-c011-48a1-96f0-4ff75cea291b.png)
+![rsz_1studyspacesched2](https://user-images.githubusercontent.com/99773981/155716014-450e63bd-d67a-4ef7-b064-1152144030f8.png)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amcsantiago/amcsantiago.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
